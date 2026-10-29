@@ -1,0 +1,500 @@
+{
+  "schema": "barotrauma-mod-profile-v2",
+  "appid": 602960,
+  "name": "当前联机配置",
+  "game_version": "1.13.5.0",
+  "core": null,
+  "order": [
+    {
+      "id": "2559634234",
+      "name": "LuaCsForBarotrauma",
+      "mod_version": "1.0.117",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "2795927223",
+      "name": "CsForBarotrauma",
+      "mod_version": "1.0.1",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "3573721556",
+      "name": "Hide Your Items Cloaker",
+      "mod_version": "1.6",
+      "assistant_fingerprint": "cca6e75cc9cd2e04e7c849326ad1b5442d5587cd4c72202198a4f8d1d43a5c6d",
+      "core": false
+    },
+    {
+      "id": "3646358075",
+      "name": "IO Storage",
+      "mod_version": "1.961",
+      "assistant_fingerprint": "673433b46506d2ebbc5cef219ba450f4a7c2cdada50f4fb28f391a3318d3832d",
+      "core": false
+    },
+    {
+      "id": "2809175631",
+      "name": "[EA-HI]木卫二萌化计划",
+      "mod_version": "2.2.4",
+      "assistant_fingerprint": "3d7818c56e2acce4ff89f5260a4d4b7a1fca24c52872bda2172641737861ccb7",
+      "core": false
+    },
+    {
+      "id": "2811300302",
+      "name": "BetterFabricatorUI",
+      "mod_version": "1.3.4",
+      "assistant_fingerprint": "24b025fefb036b354464bf3e99685ac7fc7a935fb63e9a3677296af34aa0b3fb",
+      "core": false
+    },
+    {
+      "id": "2852411866",
+      "name": "T.S.M MISSIONS-问君此去几时还",
+      "mod_version": "1.1.326",
+      "assistant_fingerprint": "ec9eac73c7568775b8211116b73c4120d9ad3f2a5edeeb27a80410eba46a5147",
+      "core": false
+    },
+    {
+      "id": "3606054332",
+      "name": "Vanilla_Components_Expanded",
+      "mod_version": "1.5.3",
+      "assistant_fingerprint": "2982dfea75381e5d6e92c748fdc7664c4d8e8866ee90a5febaa3ad3ccf4a67d3",
+      "core": false
+    },
+    {
+      "id": "3630177833",
+      "name": "九州武库Rebalance",
+      "mod_version": "0.316",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "3710612119",
+      "name": "安德莉亚超级护盾+弹匣加强补丁",
+      "mod_version": "1.0.23",
+      "assistant_fingerprint": "f72a199cbed6e8701aa6b313fbb28e3644f1e5da7e19f69f16b54278ef43fca6",
+      "core": false
+    },
+    {
+      "id": "3570312560",
+      "name": "安德莉亚 德西琳（角色mod）",
+      "mod_version": "1.1.13",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "3572864722",
+      "name": "少女前线—战术人形M200重置版",
+      "mod_version": "1.0.38",
+      "assistant_fingerprint": "7290074aef203b44cc6be6e44af21b356901def9e83aafe9159b2d990cdb02eb",
+      "core": false
+    },
+    {
+      "id": "3443540295",
+      "name": "JiuZhou Arsenal Frontline JZF 九州前线CQB组合包",
+      "mod_version": "1.178",
+      "assistant_fingerprint": "89cabfdd3e761dc0ac5bcf8d08c978c30ba75cbec5cbb8f1f6a24be931954c64",
+      "core": false
+    },
+    {
+      "id": "3644141414",
+      "name": "少女前线—战术人形HK416",
+      "mod_version": "1.1.15",
+      "assistant_fingerprint": "8e7d0e95ee7da6b5c7c40fb2a2b11e504d2ab021cdf4f17d0df8644d821feaae",
+      "core": false
+    },
+    {
+      "id": "3117936978",
+      "name": "特莉波卡来到木卫二",
+      "mod_version": "2.0.73",
+      "assistant_fingerprint": "dc5186ea4e0d7ce213a75a592f319bf26ee1a623db230d234d818b21675d72db",
+      "core": false
+    },
+    {
+      "id": "3467485193",
+      "name": "Blue Archive Mod Epic Anime RPG",
+      "mod_version": "2.5.9",
+      "assistant_fingerprint": "01d2abaad36fb46eee63c8ee51db38e21508273a152cc53bd68570bc7e5e097e",
+      "core": false
+    },
+    {
+      "id": "3654331499",
+      "name": "TSM_mission_summoner",
+      "mod_version": "1.0.5",
+      "assistant_fingerprint": "1c993461d57fa8c9f79de6c92c5500328118008bc16730c6796c39a54c5499f6",
+      "core": false
+    },
+    {
+      "id": "3371925534",
+      "name": "Guns Enhanced",
+      "mod_version": "0.0.73",
+      "assistant_fingerprint": "05ba2d800efaa560901505c4abfb587510f4d9176dd85af04dc6f074cfc2bf2a",
+      "core": false
+    },
+    {
+      "id": "2652934155",
+      "name": "天赋点经验(Talent Point EXP)",
+      "mod_version": "1.0.5",
+      "assistant_fingerprint": "0023fbec1476aa899162eaf5cb1ef2b1c5ecc0de491dc8dc3340e5f744a96c22",
+      "core": false
+    },
+    {
+      "id": "2491734947",
+      "name": "[BOS]Backpack",
+      "mod_version": "1.0.2",
+      "assistant_fingerprint": "6fb077cc0d4f6d3638aab090f39c8d27c1bcb58c97a558c132cfad230a99da15",
+      "core": false
+    },
+    {
+      "id": "2738972264",
+      "name": "Talents Recipe Microchip",
+      "mod_version": "1.1.0",
+      "assistant_fingerprint": "0595c52bff71c429b725ae16ece87299fa79ac17ec6e9872b7de001be4ceb70d",
+      "core": false
+    },
+    {
+      "id": "2653591971",
+      "name": "深渊基因 Abyss Gene",
+      "mod_version": "1.0.3",
+      "assistant_fingerprint": "d83ab2a35369a3882209f7424544227cbf047079543b1c26d9eb2a79f7af94d9",
+      "core": false
+    },
+    {
+      "id": "2966576795",
+      "name": "利维坦基因",
+      "mod_version": "1.0.6",
+      "assistant_fingerprint": "a0e6c11b49daeff84962667a29c763b4b905f3760234b1df56dd19f92124b256",
+      "core": false
+    },
+    {
+      "id": "3447189416",
+      "name": "[LF]死海抵抗劑",
+      "mod_version": "1.0.143",
+      "assistant_fingerprint": "a154ab5c09b04950fae133932432d6b8c5a2a9ac88b77215dc1cde51c2365bda",
+      "core": false
+    },
+    {
+      "id": "2986446968",
+      "name": "麦克米兰 TAC-50 枫月",
+      "mod_version": "1.0.5",
+      "assistant_fingerprint": "fe2cac07cf624dcb46183cdce24282272d4c9f4d00ffa85e29c2fe9028bd567f",
+      "core": false
+    },
+    {
+      "id": "3617262285",
+      "name": "[KS]Stellar-Iris-Piercer_贯宇星虹",
+      "mod_version": "1.0.6",
+      "assistant_fingerprint": "71cfec27023799b57fe551a07f3b637c4ac6e32b6f56f21ad01b0af99d0c279a",
+      "core": false
+    },
+    {
+      "id": "3725805322",
+      "name": "[KS]Aemeath-爱弥斯",
+      "mod_version": "1.0.6",
+      "assistant_fingerprint": "040a97b6049c63f469b6c9b8fd5e60c5a7b2b44ead39e78622ef6d8c2e3becff",
+      "core": false
+    },
+    {
+      "id": "3102957709",
+      "name": "TyphonM",
+      "mod_version": "5.7.1",
+      "assistant_fingerprint": "8f7892f67bc4ca2185e4b6b0228175c3a586260b28b7f0ba17e966dee1a54343",
+      "core": false
+    },
+    {
+      "id": "3785777064",
+      "name": "Blue Archive什亭之匣A.R.O.N.A去创造独属于我们的奇迹吧",
+      "mod_version": "1.0.21",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "3452425543",
+      "name": "凤凰座 PHE 重型护卫舰",
+      "mod_version": "2.0.5",
+      "assistant_fingerprint": "85c12c7053ce4c2a4d64f47df9c986bb019bafd03e42ffeb07556f2f59cc21f4",
+      "core": false
+    },
+    {
+      "id": "3008730506",
+      "name": "可破坏的地图物品[destructibleMapObjects]",
+      "mod_version": "1.0.5",
+      "assistant_fingerprint": "0f1105393e381d26e217281db0ba894a30cd089badcafad2890736a6b7abadbb",
+      "core": false
+    },
+    {
+      "id": "2687090528",
+      "name": "CiYuanToolbox",
+      "mod_version": "2.0.4",
+      "assistant_fingerprint": "21dbb1020b51eadaa6df9270fa878a10f43b7ba4c5f7828079d96b6610d6fe67",
+      "core": false
+    },
+    {
+      "id": "3747653439",
+      "name": "Ursa Industry",
+      "mod_version": "0.1.3",
+      "assistant_fingerprint": "116248a3149bcf0566b797c28cb559c83b200c15ac420765969530298a3ec34d",
+      "core": false
+    },
+    {
+      "id": "2776997644",
+      "name": "[BOS]Wrecks",
+      "mod_version": "1.0.10",
+      "assistant_fingerprint": "5c15c57f06d5f0a298e8bb93168ec7d0babcb497f55ab67deba2319fd48d6312",
+      "core": false
+    },
+    {
+      "id": "3728965716",
+      "name": "Bullet Collision Fix",
+      "mod_version": "1.0.4",
+      "assistant_fingerprint": "268256154d866ecd3d288d3216f434f875cd6192cdf5aad13209e8c0931364ce",
+      "core": false
+    },
+    {
+      "id": "3708188095",
+      "name": "Better Orders",
+      "mod_version": "1.0.3",
+      "assistant_fingerprint": "3ab08472c58af55a16c1dd911d6496ec88dc271ae6d39aa82d0e5647f4fbc5a8",
+      "core": false
+    },
+    {
+      "id": "3716489248",
+      "name": "Missing No i dont think so!",
+      "mod_version": "1.0.3",
+      "assistant_fingerprint": "3b969f63204d1d737774a3a5fc3825df9270780f0e9d6d0488678f59d45fbd8c",
+      "core": false
+    },
+    {
+      "id": "3734191128",
+      "name": "[自用_本地模组]按B切换大狙",
+      "mod_version": "1.0.1",
+      "assistant_fingerprint": "1a80b8933f2dc3a9700980f37a7ed80ac13171fed8911b8d3226c8687ba46bc2",
+      "core": false
+    },
+    {
+      "id": "3413495302",
+      "name": "Press-R-to-Reload",
+      "mod_version": "1.0.25",
+      "assistant_fingerprint": "e281cfb3869dc086eaeb74634710ccb28975ca8cea3da06f46352e1f60f328d3",
+      "core": false
+    },
+    {
+      "id": "3457759775",
+      "name": "Press R to Reload GE Compatible Patch",
+      "mod_version": "1.0.4",
+      "assistant_fingerprint": "90fb78c64748a04e0482966ad58aad3a1709bbca507620350f1d455d8f6eef1e",
+      "core": false
+    },
+    {
+      "id": "3741690946",
+      "name": "工具轮盘RadialMenu",
+      "mod_version": "1.0.1",
+      "assistant_fingerprint": "2f0f92b68f1193eb6d81c116aa0c52cfc8af701a68a6f46d7db78700b792675f",
+      "core": false
+    },
+    {
+      "id": "3123289876",
+      "name": "Enhanced Immersion (lua only)",
+      "mod_version": "1.0.5",
+      "assistant_fingerprint": "f295ce5fc30e431c445c9aba77d108e684be420b8951463cfbc557b97c73bd11",
+      "core": false
+    },
+    {
+      "id": "3702794488",
+      "name": "Improved Quick Interactions",
+      "mod_version": "1.0.8",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "3704513246",
+      "name": "Affliction 描述优化-[Affliction Text Framework]",
+      "mod_version": "1.1",
+      "assistant_fingerprint": "cb2ad3bbb0b97b40916b4e11509e2c7a93dd2f3694d692b771564e9d19b99d0a",
+      "core": false
+    },
+    {
+      "id": "3231293294",
+      "name": "BetterHealthUI (Rework)",
+      "mod_version": "2.2.2.0",
+      "assistant_fingerprint": "87a1b24ee6a8811ee80b00e1373c5f9f251b66ab7b7eafafc83697f777fb1cf8",
+      "core": false
+    },
+    {
+      "id": "3643709773",
+      "name": "显示武器可装填物",
+      "mod_version": "1.12",
+      "assistant_fingerprint": "0ef826b3c221b0e1020595def84747aceeb7d0203549e3923280db5fca96a495",
+      "core": false
+    },
+    {
+      "id": "3629459376",
+      "name": "Barotrauma Performance Enhanced(ProjectEP)",
+      "mod_version": "OBT/1.2.3",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "3800111304",
+      "name": "星际争霸模组-StarCraft Mod",
+      "mod_version": "1.0.49",
+      "assistant_fingerprint": "c73de7ae56476ce39244b7dc03745b0407f8773b3c83a60f250654168fe71af0",
+      "core": false
+    },
+    {
+      "id": "2807566753",
+      "name": "Dont Open Debug Console On Errors",
+      "mod_version": "1.0.5",
+      "assistant_fingerprint": "1e41c6e225152887a8844ac8125e17bcad3803b9d1b52a8a4b69506480a86dd1",
+      "core": false
+    },
+    {
+      "id": "local:421c3ac500010381",
+      "name": "万年风雪.加强版·plus+",
+      "mod_version": "1.0.2",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "2950997501",
+      "name": "CA型智能耳机CASmartHeadset",
+      "mod_version": "1.30",
+      "assistant_fingerprint": "3708a46b3ba6604297391681630af9a955d66e8f7f8f8689a6c963721601d4fc",
+      "core": false
+    },
+    {
+      "id": "3482872135",
+      "name": "no_more_reputation_max_limit_TSM",
+      "mod_version": "1.0.0",
+      "assistant_fingerprint": "e600dd6466f2d255fd218793051c7a3047a0972db62b385f0cc3d5f41d423564",
+      "core": false
+    },
+    {
+      "id": "3486993603",
+      "name": "more_tsm_outpost_mission_enemy",
+      "mod_version": "1.0.2",
+      "assistant_fingerprint": "4bc164680008b00a21fe1ed352e16ae9b1ca05fd691353feba2a41d04471f2c4",
+      "core": false
+    },
+    {
+      "id": "3548052595",
+      "name": "Blue Archive Mod中文补丁",
+      "mod_version": "1.0.6",
+      "assistant_fingerprint": "fc5ddbf0f7e49a198f14cfac600b6c78aa0a9fd71ba3f71e86db9c7f2731a067",
+      "core": false
+    },
+    {
+      "id": "3738373245",
+      "name": "[LK]Bj.Etg-Sariel",
+      "mod_version": "1.0.74",
+      "assistant_fingerprint": "7cb5be95599d0731929f6b9351007ef4840f79b82c098ce9591029e5e5562d7e",
+      "core": false
+    },
+    {
+      "id": "3747229675",
+      "name": "SlowSink 慢沉",
+      "mod_version": "1.0.0",
+      "assistant_fingerprint": "ce1a3308a183b8e24086c87954003187d687a942738747ac222c03b72c5141cd",
+      "core": false
+    },
+    {
+      "id": "3747596587",
+      "name": "实用探险工具",
+      "mod_version": "1.0.0",
+      "assistant_fingerprint": "e00909c93421fef4639f39fcaa54ac4ec69dc8c5ed25b277cd614d9f194bdd59",
+      "core": false
+    },
+    {
+      "id": "3819670743",
+      "name": "AutoRecycleLoot(自动回收战利品)",
+      "mod_version": "1.0.3",
+      "assistant_fingerprint": "91e2e1ea1cb104dec3caf9bbf3db62b68b7c6e95ffde25a13ce901e0f56ca5f9",
+      "core": false
+    },
+    {
+      "id": "2681902523",
+      "name": "Unlimited Items",
+      "mod_version": "1.2.2",
+      "assistant_fingerprint": "a3ed5214e8e0f40914b7fb28d3c5928bd2c946d9aeccbc046f570dbb9ba0288c",
+      "core": false
+    },
+    {
+      "id": "3684080521",
+      "name": "Despawn Button改",
+      "mod_version": "1.0.4",
+      "assistant_fingerprint": "406f6eead8e979018e2c38ca4b9f7caa353294ca0307b2bb7f8df16775077694",
+      "core": false
+    },
+    {
+      "id": "3635814549",
+      "name": "至高点",
+      "mod_version": "1.0.15",
+      "assistant_fingerprint": "8cbbe7c9dd4644ea5622c748c52a5b4a7241c4c9e31e63a987c81d1c8de40a25",
+      "core": false
+    },
+    {
+      "id": "3821498755",
+      "name": "明河上影丨Reflection upon the Milky Way",
+      "mod_version": "1.0.27",
+      "assistant_fingerprint": "7d2860bc782fd8c1360de5619a7549544bce48cddcea2ec2cd0dcf5b67908c84",
+      "core": false
+    },
+    {
+      "id": "3330570198",
+      "name": "obj.730 Leonardo Da-Vinci",
+      "mod_version": "1.41",
+      "assistant_fingerprint": "e118679bd8e988382303b3136c9a22d1626c7968e8f6427f44e67ec9a172fd7b",
+      "core": false
+    },
+    {
+      "id": "3247598120",
+      "name": "新紫魅级战列舰",
+      "mod_version": "1.0.85",
+      "assistant_fingerprint": "3d03378bc193b8033fce8f14058e1af06f77bfd129314d791c6ada4be4a90393",
+      "core": false
+    },
+    {
+      "id": "3157899228",
+      "name": "Remove GUI Window Position Restrictions",
+      "mod_version": "3.0.1",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "3649883324",
+      "name": "TPSMonitor",
+      "mod_version": "1.0",
+      "assistant_fingerprint": "8e9b9401f5947406ff0826b05ef28bbab6c80bbf8be16e396ffdea415865a2bf",
+      "core": false
+    },
+    {
+      "id": "3618710101",
+      "name": "PerformanceEnhancement",
+      "mod_version": "0.86",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "2852315967",
+      "name": "Lua Linker",
+      "mod_version": "1.2.1",
+      "assistant_fingerprint": "41780cd35f625705a53be0c840bf0bea2ec25be50f828c2ca8e9ff3f84be9325",
+      "core": false
+    },
+    {
+      "id": "3780903072",
+      "name": "原版废站任务删除",
+      "mod_version": "1",
+      "assistant_fingerprint": "",
+      "core": false
+    },
+    {
+      "id": "local:2874017a47bbaf85",
+      "name": "[KS]Stellar-Iris-LEGION",
+      "mod_version": "1.0.2",
+      "assistant_fingerprint": "",
+      "core": false
+    }
+  ],
+  "note": "配置记录启用状态和顺序；Steam 只能提供当前工坊版本，不能按此文件获取历史版本。"
+}
